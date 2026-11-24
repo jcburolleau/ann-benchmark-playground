@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.npy
+texts.json
+.cache/
+.python-version
+.DS_Store
+.netlify
